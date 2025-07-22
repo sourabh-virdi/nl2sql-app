@@ -1,0 +1,15 @@
+streamlit>=1.28.0
+snowflake-connector-python>=3.4.0
+boto3>=1.34.0
+python-dotenv>=1.0.0
+pandas>=2.0.0
+plotly>=5.17.0
+sqlparse>=0.4.4
+pyyaml>=6.0
+toml>=0.10.2
+logging>=0.4.9.6
+
+# Testing dependencies
+pytest>=7.4.0
+pytest-mock>=3.11.0
+pytest-cov>=4.1.0 

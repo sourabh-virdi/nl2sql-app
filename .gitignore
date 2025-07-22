@@ -5,8 +5,6 @@
 .env.staging
 .env.development
 
-# Configuration files with sensitive data
-config/config.toml
 
 # Python artifacts
 __pycache__/
